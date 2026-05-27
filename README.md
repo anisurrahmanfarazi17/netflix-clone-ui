@@ -27,7 +27,7 @@ A modern and responsive Netflix homepage clone built using HTML and CSS.
 
 ## 🌐 Live Demo
 
-
+[https://ntflix-clone-by-anisur.netlify.app](https://ntflix-clone-by-anisur.netlify.app/)
 
 ## 👨‍💻 Author
 
